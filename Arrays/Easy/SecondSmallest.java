@@ -1,3 +1,5 @@
+package Arrays.Easy;
+
 public class SecondSmallest {
     public static void main(String[] args) {
         int a[] = {1, 7, 6, 4, 5};
